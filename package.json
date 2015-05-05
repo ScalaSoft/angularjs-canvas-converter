@@ -1,0 +1,5 @@
+{ "name": "alvaropaco",
+  "description": "Angular implementation to convert Images to 2D Canvas and 2D Canvas to Images Objects.",
+  "version": "1.1.0",
+  "main": "Canvas.js"
+}
