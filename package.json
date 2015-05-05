@@ -1,5 +1,18 @@
-{ "name": "alvaropaco",
-  "description": "Angular implementation to convert Images to 2D Canvas and 2D Canvas to Images Objects.",
+{
+  "name": "canvas-converter",
   "version": "1.1.0",
-  "main": "Canvas.js"
+  "description": "AngularJs implementation to convert Images to 2D Canvas and 2D Canvas to Images Objects.",
+  "author": "Alvaro Paçó <alvaro@scalasoft.com.br>",
+  "main": "Canvas.js",
+  "repository": {
+  "type": "git",
+  "url": "git@github.com:ScalaSoft/angularjs-canvas-converter.git"
+  },
+  "keywords": [
+  "canvas",
+  "convert",
+  "converter",
+  "angular"
+  ],
+  "license": "MIT"
 }
